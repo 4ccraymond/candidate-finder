@@ -4,11 +4,11 @@ A React + TypeScript application that helps employers discover and track potenti
 
 ## 📸 Screenshot
 
-![App Screenshot](./Assets/13-01-candidate_search_homepage.png)
+![App Screenshot](./Assets/candidate_search_homepage.jpg)
 
 ## 🚀 Live Demo
 
-🔗 [Deployed App on Render](https://your-render-url.com)
+🔗 [Deployed App on Render](https://candidate-finder-vkhr.onrender.com/)
 
 ## 🧠 Features
 
